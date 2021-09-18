@@ -1,3 +1,0 @@
-hello world
-hakuna matata
-2commit
